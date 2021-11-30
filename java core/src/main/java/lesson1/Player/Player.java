@@ -20,4 +20,4 @@ public abstract class Player {
     public void setPassing(boolean passing){
         this.passing = passing;
     }
-}
+} 
