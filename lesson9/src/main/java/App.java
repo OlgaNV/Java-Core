@@ -9,8 +9,8 @@ class App {
             list.add(new Student(1, "Иванов"));
             list.add(new Student(2, "Петров"));
             list.add(new Student(1, "Сидоров"));
-            list.add(new Student(2, "Jackson"));
-            list.add(new Student(1, "Smith"));
+            list.add(new Student(2, "Попов"));
+            list.add(new Student(1, "Смирнов"));
 
             int course = 1;
             printStudents(list, course);
